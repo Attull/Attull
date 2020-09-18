@@ -1,3 +1,10 @@
+<header>
+	<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+</header>
 <h1 align="center">Hi 👋, I'm Atul Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,11 +13,7 @@
 - 🌱 I’m currently learning **Nodejs and MongoDB**
 
 - 📫 How to reach me **atul852798@gmail.com**
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
+
 <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="vertical-align:middle;margin:0px 20px"/>
 	 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="vertical-align:middle;margin:0px 20px"/> 
