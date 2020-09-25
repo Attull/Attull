@@ -12,5 +12,5 @@
 
 <p align="center">
 Linkedin
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atul-sharma-016b31194/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/atul-sharma-016b31194/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/atul-sharma-016b31194/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/atul-sharma-016b31194/" height="30" width="30" /></a>
 </p>
