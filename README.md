@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attull" alt="attull" /> </p>
 
-- 🌱 I’m currently learning **Nodejs and MongoDB**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **atul852798@gmail.com**
 
