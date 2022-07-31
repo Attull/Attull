@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attull" alt="attull" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 **Full stack instructor**
 
 - 📫 How to reach me **atul852798@gmail.com**
 
