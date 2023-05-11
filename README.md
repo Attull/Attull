@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attull" alt="attull" /> </p>
 
-- 🌱 **Full stack instructor**
+- 🌱 **Full stack Developer**
 
 - 📫 How to reach me **atul852798@gmail.com**
 
