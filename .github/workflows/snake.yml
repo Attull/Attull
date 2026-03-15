@@ -1,44 +1,38 @@
-name: Generate Snake
+name: Generate Advanced Snake
 
 on:
-  # run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */6 * * *"
+
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
   push:
     branches:
-    - master
-    - main
+      - main
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from (**Required**)
           github_user_name: ${{ github.repository_owner }}
-          
-          # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          #
-          #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+            dist/github-snake-neon.svg?color_snake=#00ff99&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-snake.gif
+
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
