@@ -13,3 +13,6 @@
 Linkedin
 <a href="https://www.linkedin.com/in/atul-sharma-016b31194/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/atul-sharma-016b31194/" height="30" width="30" /></a>
 </p>
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5e1b47,d66d28&height=100&section=footer)
