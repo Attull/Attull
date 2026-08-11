@@ -17,19 +17,13 @@
 
 ---
 
-## 🧭 Professional Summary
-
-Results-driven **Full Stack Developer** with 4+ years of experience designing and delivering scalable web applications using the **MERN stack**. Proven expertise in building responsive React frontends with modern state management (Redux, Hooks, Context API) alongside robust Node.js/Express.js backends featuring secure authentication and RESTful APIs. Also experienced as a **part-time instructor**, training 1000+ engineering students in industry-ready full-stack development practices. Passionate about contributing technical depth and problem-solving skills to innovative product teams.
-
----
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🎨 Frontend — React Ecosystem
+### Frontend — React Ecosystem
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular_2+-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -46,7 +40,7 @@ Results-driven **Full Stack Developer** with 4+ years of experience designing an
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -63,7 +57,7 @@ Results-driven **Full Stack Developer** with 4+ years of experience designing an
 </tr>
 </table>
 
-### 🧰 Tools & Practices
+### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -75,7 +69,7 @@ Agile/Scrum · Code Reviews · Clean Code Principles · CI/CD Deployment
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | Duration | Location |
 |---|---|---|---|
@@ -84,17 +78,17 @@ Agile/Scrum · Code Reviews · Clean Code Principles · CI/CD Deployment
 
 ---
 
-## 📜 Certifications & Achievements
+## Certifications & Achievements
 
-- 🏅 **Design and Analysis of Algorithms** — NPTEL *(online course with certification)*
-- 🏅 **50 JavaScript Projects in 50 Days** — Udemy *(hands-on JavaScript proficiency)*
-- 🏆 **GATE 2019 Qualified** — All-India competitive exam for engineering graduates
+- **Design and Analysis of Algorithms** — NPTEL *(online course with certification)*
+- **50 JavaScript Projects in 50 Days** — Udemy *(hands-on JavaScript proficiency)*
+- **GATE 2019 Qualified** — All-India competitive exam for engineering graduates
 
 ---
 
 <div align="center">
 
-### 📬 Let's Connect
+### Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Attull/)
