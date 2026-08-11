@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Attull/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atulsharma8/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atul852798@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918189903100)
 
 📍 Hyderabad, India
 
@@ -20,7 +19,7 @@
 
 ## 🧭 Professional Summary
 
-Results-driven **Full Stack Developer** with 4+ years of experience designing and delivering scalable web applications using the **MERN stack**. Proven expertise in building responsive React frontends with modern state management (Redux, Hooks, Context API) alongside robust Node.js/Express.js backends featuring secure authentication and RESTful APIs. Also experienced as a **part-time instructor**, training 100+ engineering students in industry-ready full-stack development practices. Passionate about contributing technical depth and problem-solving skills to innovative product teams.
+Results-driven **Full Stack Developer** with 4+ years of experience designing and delivering scalable web applications using the **MERN stack**. Proven expertise in building responsive React frontends with modern state management (Redux, Hooks, Context API) alongside robust Node.js/Express.js backends featuring secure authentication and RESTful APIs. Also experienced as a **part-time instructor**, training 1000+ engineering students in industry-ready full-stack development practices. Passionate about contributing technical depth and problem-solving skills to innovative product teams.
 
 ---
 
@@ -73,63 +72,6 @@ Results-driven **Full Stack Developer** with 4+ years of experience designing an
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 Agile/Scrum · Code Reviews · Clean Code Principles · CI/CD Deployment
-
----
-
-## 💼 Professional Experience
-
-### 🎓 Instructor (Part-Time) — **GeeksforGeeks**
-📅 *Aug 2025 – Present* &nbsp;|&nbsp; 📍 Hyderabad, India
-
-- Delivered hands-on **MERN Stack training** focused on React fundamentals, component design, hooks, and REST API integration.
-- Conducted MERN Stack workshops for **100+ engineering students**, emphasizing industry-ready frontend and full-stack practices.
-
-<br>
-
-### 💻 Software Engineer — **Lloyds Offshore Global Pvt. Ltd.**
-📅 *Mar 2025 – Jul 2025* &nbsp;|&nbsp; 📍 Hyderabad, India
-
-- Led end-to-end **React application migration from React 16 → React 19**, ensuring backward compatibility and leveraging modern React features.
-- Resolved complex third-party library compatibility issues, improving application stability post-migration.
-
-<br>
-
-### 🚀 Senior Software Engineer — **Abilio IT Solutions Pvt. Ltd.**
-📅 *Oct 2023 – Jan 2025* &nbsp;|&nbsp; 📍 Hyderabad, India
-
-- Architected and developed **Techu LMS**, a full-featured Learning Management System serving **500+ users** with role-based access control and course management. 🔗 [techu.in](https://www.techu.in/)
-- Led end-to-end setup of a MERN Stack EdTech program — trainer onboarding, curriculum design, demos, and delivery (online & offline).
-- Designed a responsive React frontend with Material UI, implementing user dashboards, course modules, progress tracking, and notifications.
-- Built secure backend APIs using **Node.js/Express** with **JWT-based authentication**, role-based authorization, and a MongoDB data layer.
-- Integrated third-party APIs (payment gateways, email services) and optimized database queries for performance.
-
-<br>
-
-### 🧩 Senior Software Developer — **Zeominds IT Solutions Pvt. Ltd.**
-📅 *Sep 2022 – Sep 2023* &nbsp;|&nbsp; 📍 Hyderabad, India
-
-- Developed and deployed features for **Livescraper**, a data scraping & lead-generation SaaS platform serving enterprise clients with **2,000+ monthly active users**. 🔗 [livescraper.com](https://livescraper.com/)
-- Built a scalable **React + Redux** frontend with complex state management, real-time data updates, and intuitive UI.
-- Developed Node.js/Express backend APIs handling concurrent scraping tasks, JWT authentication, and real-time notifications via **Socket.IO**.
-- Managed and maintained **Innomatics Research Lab's** primary website using HTML, CSS, Bootstrap, and jQuery. 🔗 [innomatics.in](https://www.innomatics.in/)
-- Participated in sprint planning, code reviews, debugging, and deployment activities.
-
-<br>
-
-### 🖥️ Software Developer — **Adjoint Technologies Pvt. Ltd.**
-📅 *Nov 2021 – Sep 2022* &nbsp;|&nbsp; 📍 Hyderabad, India
-
-- Developed features for **UPSELL**, a Salesforce Automation & CRM platform serving **1,000+ enterprise users**, using **Angular 10**. 🔗 [adjoint.co](https://adjoint.co/)
-- Built reusable, maintainable Angular components and modules following best practices.
-- Translated Figma designs into responsive UI using **Angular Material** and **Ionic**.
-- Implemented data visualization features using **Chart.js**, improving user insights and decision-making.
-
-<br>
-
-### 🏢 Associate System Engineer — **Tata Consultancy Services**
-📅 *Jun 2021 – Oct 2021* &nbsp;|&nbsp; 📍 Delhi, India
-
-- Completed intensive training in frontend development and object-oriented programming concepts, including **C++** and **JavaScript**.
 
 ---
 
